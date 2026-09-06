@@ -1,0 +1,5 @@
+# p=open(r'main.py')
+# print(p.read())
+r=open("superman.txt",'a')
+r.write("now i am appending some this from this file")
+r.close()
